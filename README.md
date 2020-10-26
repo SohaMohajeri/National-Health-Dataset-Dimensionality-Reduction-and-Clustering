@@ -1,6 +1,6 @@
 # National Health Dataset Dimensionality Reduction and Clustering
 
-![gg](https://user-images.githubusercontent.com/69224996/96631511-43cb7380-12cb-11eb-8ad3-c80aef6b70ea.jpg)
+![11](https://user-images.githubusercontent.com/69224996/97237090-b93fb400-17a3-11eb-9ac5-406c42d834a3.jpg)
 
 The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States.
 
