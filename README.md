@@ -22,4 +22,3 @@ In this notebook, the main goal is to determine the types of diseases affecting 
 
 
 
-
